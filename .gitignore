@@ -1,7 +1,6 @@
 *.hex
 *.patch
 *.steps
-*.zip
 .*.swp
 *.mpy
 __pycache__
@@ -10,7 +9,6 @@ docs/build
 attic/
 wasp/boards/*/watch.py
 wasp/boards/manifest_user_apps.py
-wasp/apps/user
 wasp/appregistry.py
 .idea
 .vscode
